@@ -1,1 +1,1 @@
-shell, I/O
+script that prints “Hello, World”
